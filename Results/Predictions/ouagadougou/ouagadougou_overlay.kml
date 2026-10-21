@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <GroundOverlay>
+    <name>Ouagadougou - predicted waste probability</name>
+    <Icon><href>ouagadougou_overlay.png</href></Icon>
+    <LatLonBox>
+      <north>12.46646959449853</north><south>12.225626077374768</south>
+      <east>-1.3562244453635075</east><west>-1.685410481506319</west>
+    </LatLonBox>
+  </GroundOverlay>
+</kml>

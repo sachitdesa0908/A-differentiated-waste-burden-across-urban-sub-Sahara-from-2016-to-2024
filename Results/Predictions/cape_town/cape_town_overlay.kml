@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <GroundOverlay>
+    <name>Cape_Town - predicted waste probability</name>
+    <Icon><href>cape_town_overlay.png</href></Icon>
+    <LatLonBox>
+      <north>-33.77917916093162</north><south>-34.15771485482953</south>
+      <east>18.76315225505998</east><west>18.345887701009392</west>
+    </LatLonBox>
+  </GroundOverlay>
+</kml>

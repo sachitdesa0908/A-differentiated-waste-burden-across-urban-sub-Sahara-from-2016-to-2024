@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <GroundOverlay>
+    <name>Brazzaville - predicted waste probability</name>
+    <Icon><href>brazzaville_overlay.png</href></Icon>
+    <LatLonBox>
+      <north>-4.0945253749058566</north><south>-4.390422108883565</south>
+      <east>15.369320921036373</east><west>15.127722223870132</west>
+    </LatLonBox>
+  </GroundOverlay>
+</kml>

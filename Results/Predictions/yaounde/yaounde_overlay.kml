@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <GroundOverlay>
+    <name>Yaounde - predicted waste probability</name>
+    <Icon><href>yaounde_overlay.png</href></Icon>
+    <LatLonBox>
+      <north>4.134803224149879</north><south>3.7245080651499336</south>
+      <east>11.67824791263834</east><west>11.404564505744878</west>
+    </LatLonBox>
+  </GroundOverlay>
+</kml>

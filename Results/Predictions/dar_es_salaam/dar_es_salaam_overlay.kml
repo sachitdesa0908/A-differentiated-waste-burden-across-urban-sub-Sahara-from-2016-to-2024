@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <GroundOverlay>
+    <name>Dar_es_Salaam - predicted waste probability</name>
+    <Icon><href>dar_es_salaam_overlay.png</href></Icon>
+    <LatLonBox>
+      <north>-6.55744339811156</north><south>-7.057250838513817</south>
+      <east>39.38271756915117</east><west>38.822585394666966</west>
+    </LatLonBox>
+  </GroundOverlay>
+</kml>

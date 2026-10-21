@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <GroundOverlay>
+    <name>Tamale - predicted waste probability</name>
+    <Icon><href>tamale_overlay.png</href></Icon>
+    <LatLonBox>
+      <north>9.498426881402349</north><south>9.35198999444506</south>
+      <east>-0.7618284508915687</east><west>-0.9197601661663072</west>
+    </LatLonBox>
+  </GroundOverlay>
+</kml>

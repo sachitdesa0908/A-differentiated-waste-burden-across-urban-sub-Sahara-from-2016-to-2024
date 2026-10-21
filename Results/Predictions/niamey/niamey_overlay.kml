@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <GroundOverlay>
+    <name>Niamey - predicted waste probability</name>
+    <Icon><href>niamey_overlay.png</href></Icon>
+    <LatLonBox>
+      <north>13.610844782645792</north><south>13.425323931837566</south>
+      <east>2.2212787192104946</east><west>2.00990140977704</west>
+    </LatLonBox>
+  </GroundOverlay>
+</kml>

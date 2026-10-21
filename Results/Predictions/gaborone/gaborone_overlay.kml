@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <GroundOverlay>
+    <name>Gaborone - predicted waste probability</name>
+    <Icon><href>gaborone_overlay.png</href></Icon>
+    <LatLonBox>
+      <north>-24.54259094559429</north><south>-24.69813837255512</south>
+      <east>26.00497627152904</east><west>25.774116331947035</west>
+    </LatLonBox>
+  </GroundOverlay>
+</kml>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <GroundOverlay>
+    <name>Kano - predicted waste probability</name>
+    <Icon><href>kano_overlay.png</href></Icon>
+    <LatLonBox>
+      <north>12.112827889011433</north><south>11.883635356990029</south>
+      <east>8.659977199605203</east><west>8.404365190687285</west>
+    </LatLonBox>
+  </GroundOverlay>
+</kml>

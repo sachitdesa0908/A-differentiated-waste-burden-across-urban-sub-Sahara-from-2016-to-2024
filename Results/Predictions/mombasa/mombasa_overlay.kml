@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <GroundOverlay>
+    <name>Mombasa - predicted waste probability</name>
+    <Icon><href>mombasa_overlay.png</href></Icon>
+    <LatLonBox>
+      <north>-3.855506679445108</north><south>-4.150662488961074</south>
+      <east>39.81295450164789</east><west>39.56717882767896</west>
+    </LatLonBox>
+  </GroundOverlay>
+</kml>

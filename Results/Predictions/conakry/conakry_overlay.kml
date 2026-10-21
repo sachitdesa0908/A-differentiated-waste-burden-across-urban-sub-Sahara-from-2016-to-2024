@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <GroundOverlay>
+    <name>Conakry - predicted waste probability</name>
+    <Icon><href>conakry_overlay.png</href></Icon>
+    <LatLonBox>
+      <north>9.904830894888322</north><south>9.501395406603631</south>
+      <east>-13.345506752613169</east><west>-13.721831635525875</west>
+    </LatLonBox>
+  </GroundOverlay>
+</kml>

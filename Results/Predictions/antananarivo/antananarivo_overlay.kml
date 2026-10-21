@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <GroundOverlay>
+    <name>Antananarivo - predicted waste probability</name>
+    <Icon><href>antananarivo_overlay.png</href></Icon>
+    <LatLonBox>
+      <north>-18.763396195545347</north><south>-19.078148623550963</south>
+      <east>47.65011254401608</east><west>47.4100528023551</west>
+    </LatLonBox>
+  </GroundOverlay>
+</kml>

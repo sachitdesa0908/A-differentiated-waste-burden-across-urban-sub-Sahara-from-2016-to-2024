@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <GroundOverlay>
+    <name>Monrovia - predicted waste probability</name>
+    <Icon><href>monrovia_overlay.png</href></Icon>
+    <LatLonBox>
+      <north>6.464625778728372</north><south>6.212301461375033</south>
+      <east>-10.57611988620252</east><west>-10.82954634507036</west>
+    </LatLonBox>
+  </GroundOverlay>
+</kml>

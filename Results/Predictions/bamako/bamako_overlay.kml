@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <GroundOverlay>
+    <name>Bamako - predicted waste probability</name>
+    <Icon><href>bamako_overlay.png</href></Icon>
+    <LatLonBox>
+      <north>12.805503850845106</north><south>12.45730140073351</south>
+      <east>-7.745294553958455</east><west>-8.133526845592582</west>
+    </LatLonBox>
+  </GroundOverlay>
+</kml>

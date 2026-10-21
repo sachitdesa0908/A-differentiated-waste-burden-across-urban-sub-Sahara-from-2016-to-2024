@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <GroundOverlay>
+    <name>Cotonou - predicted waste probability</name>
+    <Icon><href>cotonou_overlay.png</href></Icon>
+    <LatLonBox>
+      <north>6.660884224116659</north><south>6.341746096361224</south>
+      <east>2.566110557748533</east><west>2.15084203115807</west>
+    </LatLonBox>
+  </GroundOverlay>
+</kml>

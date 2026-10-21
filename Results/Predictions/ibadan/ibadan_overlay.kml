@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <GroundOverlay>
+    <name>Ibadan - predicted waste probability</name>
+    <Icon><href>ibadan_overlay.png</href></Icon>
+    <LatLonBox>
+      <north>7.594836341634541</north><south>7.257849561482199</south>
+      <east>4.1005732838106725</east><west>3.7307075969296233</west>
+    </LatLonBox>
+  </GroundOverlay>
+</kml>

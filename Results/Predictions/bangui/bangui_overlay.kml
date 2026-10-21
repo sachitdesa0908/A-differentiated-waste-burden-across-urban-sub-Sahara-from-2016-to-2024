@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <GroundOverlay>
+    <name>Bangui - predicted waste probability</name>
+    <Icon><href>bangui_overlay.png</href></Icon>
+    <LatLonBox>
+      <north>4.489385345767625</north><south>4.306526501512622</south>
+      <east>18.59498243681977</east><west>18.474143895340912</west>
+    </LatLonBox>
+  </GroundOverlay>
+</kml>

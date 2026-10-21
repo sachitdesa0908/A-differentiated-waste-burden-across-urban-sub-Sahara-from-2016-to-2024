@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <GroundOverlay>
+    <name>Douala - predicted waste probability</name>
+    <Icon><href>douala_overlay.png</href></Icon>
+    <LatLonBox>
+      <north>4.163456025945665</north><south>3.960590074554592</south>
+      <east>9.854158911532194</east><west>9.5599634264498</west>
+    </LatLonBox>
+  </GroundOverlay>
+</kml>

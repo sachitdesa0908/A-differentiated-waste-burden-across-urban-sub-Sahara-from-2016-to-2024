@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <GroundOverlay>
+    <name>Libreville - predicted waste probability</name>
+    <Icon><href>libreville_overlay.png</href></Icon>
+    <LatLonBox>
+      <north>0.556921486879912</north><south>0.2838735535406678</south>
+      <east>9.787664127463731</east><west>9.343110015766092</west>
+    </LatLonBox>
+  </GroundOverlay>
+</kml>

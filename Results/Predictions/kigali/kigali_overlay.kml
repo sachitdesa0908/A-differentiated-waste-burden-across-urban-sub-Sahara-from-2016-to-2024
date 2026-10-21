@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <GroundOverlay>
+    <name>Kigali - predicted waste probability</name>
+    <Icon><href>kigali_overlay.png</href></Icon>
+    <LatLonBox>
+      <north>-1.3425490203633597</north><south>-2.2519833324160103</south>
+      <east>30.59077778803908</east><west>29.76775378424883</west>
+    </LatLonBox>
+  </GroundOverlay>
+</kml>

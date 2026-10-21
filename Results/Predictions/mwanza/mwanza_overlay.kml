@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <GroundOverlay>
+    <name>Mwanza - predicted waste probability</name>
+    <Icon><href>mwanza_overlay.png</href></Icon>
+    <LatLonBox>
+      <north>-2.4421961605739995</north><south>-2.6522718264543177</south>
+      <east>33.068868058971645</east><west>32.87510796649314</west>
+    </LatLonBox>
+  </GroundOverlay>
+</kml>

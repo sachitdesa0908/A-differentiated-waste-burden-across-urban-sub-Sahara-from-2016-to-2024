@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <GroundOverlay>
+    <name>Kumasi - predicted waste probability</name>
+    <Icon><href>kumasi_overlay.png</href></Icon>
+    <LatLonBox>
+      <north>6.863154338628654</north><south>6.503357261386501</south>
+      <east>-1.4601165381320558</east><west>-1.8252657550186444</west>
+    </LatLonBox>
+  </GroundOverlay>
+</kml>

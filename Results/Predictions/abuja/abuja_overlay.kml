@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <GroundOverlay>
+    <name>Abuja - predicted waste probability</name>
+    <Icon><href>abuja_overlay.png</href></Icon>
+    <LatLonBox>
+      <north>9.245931482554782</north><south>8.919645361849847</south>
+      <east>7.555836317967754</east><west>7.160114890318207</west>
+    </LatLonBox>
+  </GroundOverlay>
+</kml>

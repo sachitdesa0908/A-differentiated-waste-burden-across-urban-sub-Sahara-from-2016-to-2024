@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <GroundOverlay>
+    <name>Juba - predicted waste probability</name>
+    <Icon><href>juba_overlay.png</href></Icon>
+    <LatLonBox>
+      <north>4.924566123533552</north><south>4.766464928870197</south>
+      <east>31.6678422712321</east><west>31.451907482913786</west>
+    </LatLonBox>
+  </GroundOverlay>
+</kml>

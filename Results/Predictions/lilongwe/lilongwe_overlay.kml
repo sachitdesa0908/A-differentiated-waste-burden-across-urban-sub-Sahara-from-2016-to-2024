@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <GroundOverlay>
+    <name>Lilongwe - predicted waste probability</name>
+    <Icon><href>lilongwe_overlay.png</href></Icon>
+    <LatLonBox>
+      <north>-13.834457338371651</north><south>-14.129238203406793</south>
+      <east>33.86852159238409</east><west>33.61272284995083</west>
+    </LatLonBox>
+  </GroundOverlay>
+</kml>

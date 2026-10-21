@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <GroundOverlay>
+    <name>Windhoek - predicted waste probability</name>
+    <Icon><href>windhoek_overlay.png</href></Icon>
+    <LatLonBox>
+      <north>-22.47999534930044</north><south>-22.636101972402383</south>
+      <east>17.125963966071787</east><west>16.99156987929439</west>
+    </LatLonBox>
+  </GroundOverlay>
+</kml>

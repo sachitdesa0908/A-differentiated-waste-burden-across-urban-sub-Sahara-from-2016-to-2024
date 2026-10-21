@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <GroundOverlay>
+    <name>Goma - predicted waste probability</name>
+    <Icon><href>goma_overlay.png</href></Icon>
+    <LatLonBox>
+      <north>-1.5910652998537962</north><south>-1.700290941046526</south>
+      <east>29.26290981134525</east><west>29.11953670139563</west>
+    </LatLonBox>
+  </GroundOverlay>
+</kml>

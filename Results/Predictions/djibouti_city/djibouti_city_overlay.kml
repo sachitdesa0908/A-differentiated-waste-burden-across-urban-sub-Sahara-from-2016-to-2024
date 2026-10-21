@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <GroundOverlay>
+    <name>Djibouti_City - predicted waste probability</name>
+    <Icon><href>djibouti_city_overlay.png</href></Icon>
+    <LatLonBox>
+      <north>11.622748822426564</north><south>11.51227300994638</south>
+      <east>43.18135515838095</east><west>43.031647472805446</west>
+    </LatLonBox>
+  </GroundOverlay>
+</kml>

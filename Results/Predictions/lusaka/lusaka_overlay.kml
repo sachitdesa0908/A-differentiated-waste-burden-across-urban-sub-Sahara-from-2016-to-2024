@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <GroundOverlay>
+    <name>Lusaka - predicted waste probability</name>
+    <Icon><href>lusaka_overlay.png</href></Icon>
+    <LatLonBox>
+      <north>-15.216660561617486</north><south>-15.610115029144936</south>
+      <east>28.46118049632629</east><west>28.096349775699814</west>
+    </LatLonBox>
+  </GroundOverlay>
+</kml>

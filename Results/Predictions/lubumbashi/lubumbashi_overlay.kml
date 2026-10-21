@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <GroundOverlay>
+    <name>Lubumbashi - predicted waste probability</name>
+    <Icon><href>lubumbashi_overlay.png</href></Icon>
+    <LatLonBox>
+      <north>-11.526820697628034</north><south>-11.782999621608075</south>
+      <east>27.59915817459296</east><west>27.34454488640061</west>
+    </LatLonBox>
+  </GroundOverlay>
+</kml>

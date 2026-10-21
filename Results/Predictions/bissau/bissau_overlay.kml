@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <GroundOverlay>
+    <name>Bissau - predicted waste probability</name>
+    <Icon><href>bissau_overlay.png</href></Icon>
+    <LatLonBox>
+      <north>11.976078446886415</north><south>11.809075020800108</south>
+      <east>-15.572183921433696</east><west>-15.725090922215587</west>
+    </LatLonBox>
+  </GroundOverlay>
+</kml>

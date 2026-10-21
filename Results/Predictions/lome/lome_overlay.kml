@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <GroundOverlay>
+    <name>Lome - predicted waste probability</name>
+    <Icon><href>lome_overlay.png</href></Icon>
+    <LatLonBox>
+      <north>6.356684122540619</north><south>6.113146613807133</south>
+      <east>1.524259890956163</east><west>1.0782520873541608</west>
+    </LatLonBox>
+  </GroundOverlay>
+</kml>

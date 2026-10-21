@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <GroundOverlay>
+    <name>Addis_Ababa - predicted waste probability</name>
+    <Icon><href>addis_ababa_overlay.png</href></Icon>
+    <LatLonBox>
+      <north>9.127705646165602</north><south>8.641168202231341</south>
+      <east>39.06283306894187</east><west>38.54878035027422</west>
+    </LatLonBox>
+  </GroundOverlay>
+</kml>

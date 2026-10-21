@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <GroundOverlay>
+    <name>NDjamena - predicted waste probability</name>
+    <Icon><href>ndjamena_overlay.png</href></Icon>
+    <LatLonBox>
+      <north>12.234091367916214</north><south>12.060424903653525</south>
+      <east>15.172714536182756</east><west>14.945549218031957</west>
+    </LatLonBox>
+  </GroundOverlay>
+</kml>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <GroundOverlay>
+    <name>Durban - predicted waste probability</name>
+    <Icon><href>durban_overlay.png</href></Icon>
+    <LatLonBox>
+      <north>-29.607123125786803</north><south>-30.108109148497395</south>
+      <east>31.09299211654056</east><west>30.692045972878333</west>
+    </LatLonBox>
+  </GroundOverlay>
+</kml>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <GroundOverlay>
+    <name>Garoua - predicted waste probability</name>
+    <Icon><href>garoua_overlay.png</href></Icon>
+    <LatLonBox>
+      <north>9.37448213002516</north><south>9.27555635950265</south>
+      <east>13.435369701016302</east><west>13.341604492849063</west>
+    </LatLonBox>
+  </GroundOverlay>
+</kml>

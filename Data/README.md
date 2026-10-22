@@ -10,26 +10,26 @@ The datasets include mapped waste site locations and footprints, urban covariate
 
 The data are organised into four subdirectories:
 
-### 1. `Covariates/`
+### 1. `Additional Cities/`
+Contains the data, for the 5 predictors (proximity to infrastructure, population density, night-time lights, arterial roads, and slum likelihood), used for prediction of high-risk zones across 36 urban areas in sub-Sahara 
+
+### 2. `Covariates/`
 Contains spatially explicit urban predictors representing demographic, socioeconomic, infrastructural, and morphological characteristics across the study cities. These include population density, night-time light radiance, slum likelihood, infrastructure accessibility, road proximity, and built environment characteristics.
 
 Covariates were harmonised to a common 30 m spatial grid and aligned with the 2016 and 2024 observations where temporally appropriate.
 
-### 2. `Master/`
+### 3. `Master/`
 Contains integrated city-level gridded datasets combining urban covariates with derived waste burden measures. These datasets provide the principal analytical inputs for examining waste presence, spatial change, predictor relationships, and model transferability.
 
-### 3. `Polygons/`
+### 4. `Polygons/`
 Contains spatial polygon datasets representing the mapped footprints of waste sites across the ten study cities for 2016 and 2024.
 
 These datasets preserve the geographical extent and area of individual waste accumulations, supporting analyses of site size, spatial distribution, and temporal change.
 
-### 4. `Sites/`
+### 5. `Sites/`
 Contains city-specific waste site observations, including geographical locations and mapped site areas for 2016 and 2024.
 
 These records support analyses of waste site occurrence, size distributions, spatial clustering, and changes in waste accumulation across cities.
-
-### 5. `Additional Cities/`
-Contains the data, for the 5 predictors (proximity to infrastructure, population density, night-time lights, arterial roads, and slum likelihood), used for prediction of high-risk zones across 36 urban areas in sub-Sahara 
 
 ## Data preparation and usage
 

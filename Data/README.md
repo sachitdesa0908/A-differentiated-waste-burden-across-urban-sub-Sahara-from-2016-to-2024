@@ -28,6 +28,9 @@ Contains city-specific waste site observations, including geographical locations
 
 These records support analyses of waste site occurrence, size distributions, spatial clustering, and changes in waste accumulation across cities.
 
+### 5. `Additional Cities/`
+Contains the data, for the 5 predictors (proximity to infrastructure, population density, night-time lights, arterial roads, and slum likelihood), used for prediction of high-risk zones across 36 urban areas in sub-Sahara 
+
 ## Data preparation and usage
 
 Waste sites were identified from satellite imagery, individually verified, and manually delineated using high-resolution imagery. The resulting observations were combined with spatially explicit urban covariates to construct harmonised analytical datasets.
